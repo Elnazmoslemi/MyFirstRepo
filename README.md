@@ -1,4 +1,8 @@
-My First Repository
--------------------
+﻿آموزش پی اچ پی
+----------
 
-This is some *comment*
+لینک به سایت [php]
+
+
+[php]: http://www.php.net/
+
